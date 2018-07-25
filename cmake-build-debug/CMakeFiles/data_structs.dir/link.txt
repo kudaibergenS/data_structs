@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/data_structs.dir/main.cpp.o CMakeFiles/data_structs.dir/tree/BinaryTree.cpp.o CMakeFiles/data_structs.dir/linked_list/LinkedList.cpp.o CMakeFiles/data_structs.dir/stack/Stack.cpp.o  -o data_structs 

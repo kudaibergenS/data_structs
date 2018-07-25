@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sanzhar_k/Documents/CLionProjects/data_structs/linked_list/LinkedList.cpp
+LinkedList.h
+/home/sanzhar_k/Documents/CLionProjects/data_structs/linked_list/LinkedList.h
+
+/home/sanzhar_k/Documents/CLionProjects/data_structs/linked_list/LinkedList.h
+cstddef
+-
+iostream
+-
+
+/home/sanzhar_k/Documents/CLionProjects/data_structs/main.cpp
+bits/stdc++.h
+-
+
+/home/sanzhar_k/Documents/CLionProjects/data_structs/stack/Stack.cpp
+Stack.h
+/home/sanzhar_k/Documents/CLionProjects/data_structs/stack/Stack.h
+
+/home/sanzhar_k/Documents/CLionProjects/data_structs/stack/Stack.h
+cstddef
+-
+iostream
+-
+
+/home/sanzhar_k/Documents/CLionProjects/data_structs/tree/BinaryTree.cpp
+BinaryTree.h
+/home/sanzhar_k/Documents/CLionProjects/data_structs/tree/BinaryTree.h
+
+/home/sanzhar_k/Documents/CLionProjects/data_structs/tree/BinaryTree.h
+cstddef
+-
+iostream
+-
+

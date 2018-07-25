@@ -1,0 +1,3 @@
+/home/sanzhar_k/Documents/CLionProjects/data_structs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sanzhar_k/Documents/CLionProjects/data_structs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sanzhar_k/Documents/CLionProjects/data_structs/cmake-build-debug/CMakeFiles/data_structs.dir
